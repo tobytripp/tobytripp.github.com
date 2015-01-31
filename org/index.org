@@ -1,0 +1,23 @@
+#+TITLE: Toby Tripp
+#+AUTHOR: Toby Tripp
+#+EMAIL: toby.tripp+github@gmail.com
+#+OPTIONS: H:3 num:nil toc:nil
+#+OPTIONS: html-scripts:t html-style:t
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" href="css/style.css">
+#+HTML_CONTAINER: div
+
+* Project Pages
+
+** [[http://tobytripp.github.com/meeting-ticker/][Meeting Ticker]]
+   A simple in-browser timer for estimating the cost of meetings.
+   [[http://github.com/tobytripp/meeting-ticker][(source)]]
+
+** [[http://tobytripp.github.io/emacs.d/][Emacs Configuration]]
+   My Emacs configuration files exported to a set of web pages
+   documenting how they're constructed.
+   [[https://github.com/tobytripp/emacs.d][(source)]]
+
+* Resumé
+  [[https://github.com/tobytripp/resume/blob/master/resume.pdf?raw%3Dtrue][PDF]]
+  [[https://github.com/tobytripp/resume][(source)]]
